@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudy\\TestPhoto\\xllib_crop\\build\\intermediates\\res\\merged\\release\\layout\\xlcrop__activity_crop.xml",
+        "source": "E:\\AndroidStudy\\TestPhoto\\xllib_crop\\src\\main\\res\\layout\\xlcrop__activity_crop.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudy\\TestPhoto\\xllib_crop\\build\\intermediates\\res\\merged\\release\\layout\\xlcrop__layout_done_cancel.xml",
+        "source": "E:\\AndroidStudy\\TestPhoto\\xllib_crop\\src\\main\\res\\layout\\xlcrop__layout_done_cancel.xml"
+    }
+]

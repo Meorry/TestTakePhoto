@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+
+    <LinearLayout
+        android:layout_width="240dip"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:layout_marginBottom="4dip"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnCamera"
+            android:layout_width="match_parent"
+            android:layout_height="46dip"
+            android:gravity="center"
+            android:text="拍照"
+            android:textSize="20sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dip"/>
+
+        <Button
+            android:id="@+id/btnSDCard"
+            android:layout_width="match_parent"
+            android:layout_height="46dip"
+            android:gravity="center"
+            android:text="从相册选择"
+            android:textSize="20sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="5dip"/>
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="match_parent"
+            android:layout_height="43dip"
+            android:gravity="center"
+            android:text="取消"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</RelativeLayout>
